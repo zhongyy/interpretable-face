@@ -1,7 +1,7 @@
 # interpretable-face
 This is the code for《Exploring Features and Attributes in Deep Face Recognition Using Visualization Techniques》.
 
-Using this code, you can get what a neuron detects in VGGFace http://www.robots.ox.ac.uk/~vgg/software/vgg_face/. We provide an example of neuron 22 in pool5, which captures a kind of face attribute "bold".
+Using this code, you can visualize what a neuron detects in VGGFace http://www.robots.ox.ac.uk/~vgg/software/vgg_face/. We provide an example of neuron 22 in pool5, which captures a kind of face attribute "bold". You could also use the code to interpret your own network.
 
 Note: The t-sne code is reference from https://lvdmaaten.github.io/tsne/ and https://cs.stanford.edu/people/karpathy/cnnembed/
 # Usage Instructions
