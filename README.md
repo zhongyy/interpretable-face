@@ -9,10 +9,10 @@ This is the code for 《Exploring Features and Attributes in Deep Face Recogniti
 * override "caffe.proto" in path "/home/zhongyaoyao/caffe/caffe/src/caffe/proto/caffe.proto"
 
 2. compile caffe and matcaffe (matlab wrapper for caffe)
-'''
+```
 make all -j4
 make matcaffe
-'''
+```
 ### run the demo
 tsne code is from https://lvdmaaten.github.io/tsne/ and https://cs.stanford.edu/people/karpathy/cnnembed/
 
