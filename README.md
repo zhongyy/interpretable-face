@@ -15,6 +15,7 @@ Note: The t-sne code is reference from https://lvdmaaten.github.io/tsne/ and htt
 make all -j4
 make matcaffe
 ```
+3. download the pretrained model from http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 ### run the demo
 As we provide the related images and in-process data, you could run demo.m to get the result. Note that some code related to your own path would be changed in demo.m. 
 ```
