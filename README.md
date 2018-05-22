@@ -18,6 +18,7 @@ As we provide the related images and in-process data, you could run demo.m to ge
 ```
 matlab demo.m
 ```
+The result should be like as follows.
 
 
 
