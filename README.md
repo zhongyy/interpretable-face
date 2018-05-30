@@ -1,2 +1,2 @@
 # interpretable-face
-The code is not allowed to release now.
+The work is not allowed to release now.
